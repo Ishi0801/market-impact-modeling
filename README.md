@@ -40,7 +40,7 @@ We evaluate whether a **linear** model \( g_t(x) = \beta x \) is sufficient, or 
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/market-impact-modeling.git
+git clone https://github.com/ishi0801/market-impact-modeling.git
 cd market-impact-modeling
 
 # Install dependencies
